@@ -1,12 +1,12 @@
 FORTUNE FAVOURS THE BOLD conky config
 
-Based on "My Favourite Conky" 
-Edited by Emily Garvin on 7/8/2013
-https://github.com/emgarvin
+Based on "My Favourite Conky"  
+Edited by Emily Garvin on 7/8/2013  
+https://github.com/emgarvin  
 
-Requirements:
-Conky
-Fortune
+Requirements:  
+* Conky  
+* Fortune
 
 Optimised for Linux Mint 15 on a 1600 x 900 monitor, but in theory it should work for other distributions and resolutions with a little tweaking.
 
@@ -14,9 +14,9 @@ Feel free to modify as you wish, of course! ;) Enjoy.
 
 -------------- Installation --------------
 
-First, install the prerequisite programs:
-sudo apt-get install conky-all
-sudo apt-get install fortune
+First, install the prerequisite programs:  
+sudo apt-get install conky-all  
+sudo apt-get install fortune  
 
 Press ctrl-h to see hidden files.
 
