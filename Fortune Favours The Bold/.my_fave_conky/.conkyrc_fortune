@@ -1,0 +1,29 @@
+# Position and size
+background no
+alignment top_middle
+gap_x 35
+gap_y 80
+minimum_size 1000 900
+
+# Text
+use_xft yes
+xftfont Planewalker:size=20
+
+
+# Window type
+own_window yes
+own_window_type normal
+own_window_argb_visual yes
+own_window_argb_value 75
+own_window_transparent yes
+own_window_hints undecorate,skip_taskbar,skip_pager
+
+
+# Updating
+update_interval 1.0
+double_buffer yes
+
+
+
+TEXT
+${alignc}${execi 30 fortune -s}
