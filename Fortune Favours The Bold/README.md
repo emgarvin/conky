@@ -26,10 +26,10 @@ The other eight files are the main conky files and are located in the '.my_fave_
 
 Add the 'ip.sh' file to your /.scripts folder in your /home folder.
 
-The font I use for the clock (called 'computerfont') is here --> http://www.urbanfonts.com/fonts/Computerfont.htm
+The font I use for the clock (called 'computerfont') is here --> http://www.urbanfonts.com/fonts/Computerfont.htm  
 Put the /.fonts folder in your /home folder.  
 
-The font used for the fortunes and the icons is Planewalker, found at --> http://www.dafont.com/planewalker.font
+The font used for the fortunes and the icons is Planewalker, found at --> http://www.dafont.com/planewalker.font  
 Interesting note: This is a rebuild of the font used on Magic: The Gathering cards and in The Elderscrolls III: Morrowind. Which is a great game, and you should totally get it.
 
 Once you've done that, update your fonts in terminal with 'fc-cache -v -f' and you are set!
